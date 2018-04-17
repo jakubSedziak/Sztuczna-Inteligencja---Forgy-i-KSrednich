@@ -1,0 +1,21 @@
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_2\Zad_1_Graf\bin\Debug\Zad_1_Graf.exe.config
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_2\Zad_1_Graf\obj\Debug\Zad_1_Graf.exe
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_2\Zad_1_Graf\obj\Debug\Zad_1_Graf.pdb
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_2\Zad_1_Graf\bin\Debug\Zad_1_Graf.exe
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_2\Zad_1_Graf\bin\Debug\Zad_1_Graf.pdb
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_2\Zad_1_Graf\obj\Debug\Zad_2.csprojResolveAssemblyReference.cache
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_2\Zad_1_Graf\obj\Debug\Zad_1_Graf.Form1.resources
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_2\Zad_1_Graf\obj\Debug\Zad_1_Graf.Properties.Resources.resources
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_2\Zad_1_Graf\obj\Debug\Zad_2.csproj.GenerateResource.Cache
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_2\Zad_1_Graf\obj\Debug\Zad_1_Graf.Form2.resources
+D:\GitHub\SztucznaInteligencja\Zad_2\Zad_1_Graf\bin\Debug\Zad_1_Graf.exe.config
+D:\GitHub\SztucznaInteligencja\Zad_2\Zad_1_Graf\bin\Debug\Zad_1_Graf.exe
+D:\GitHub\SztucznaInteligencja\Zad_2\Zad_1_Graf\bin\Debug\Zad_1_Graf.pdb
+D:\GitHub\SztucznaInteligencja\Zad_2\Zad_1_Graf\obj\Debug\Zad_2.csprojResolveAssemblyReference.cache
+D:\GitHub\SztucznaInteligencja\Zad_2\Zad_1_Graf\obj\Debug\Zad_1_Graf.Form1.resources
+D:\GitHub\SztucznaInteligencja\Zad_2\Zad_1_Graf\obj\Debug\Zad_1_Graf.Form2.resources
+D:\GitHub\SztucznaInteligencja\Zad_2\Zad_1_Graf\obj\Debug\Zad_1_Graf.Properties.Resources.resources
+D:\GitHub\SztucznaInteligencja\Zad_2\Zad_1_Graf\obj\Debug\Zad_2.csproj.GenerateResource.cache
+D:\GitHub\SztucznaInteligencja\Zad_2\Zad_1_Graf\obj\Debug\Zad_2.csproj.CoreCompileInputs.cache
+D:\GitHub\SztucznaInteligencja\Zad_2\Zad_1_Graf\obj\Debug\Zad_1_Graf.exe
+D:\GitHub\SztucznaInteligencja\Zad_2\Zad_1_Graf\obj\Debug\Zad_1_Graf.pdb

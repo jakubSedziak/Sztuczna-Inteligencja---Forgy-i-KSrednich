@@ -1,0 +1,12 @@
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_1_Graf\Zad_1_Graf\bin\Debug\Zad_1_Graf.exe.config
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_1_Graf\Zad_1_Graf\bin\Debug\Zad_1_Graf.exe
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_1_Graf\Zad_1_Graf\bin\Debug\Zad_1_Graf.pdb
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_1_Graf\Zad_1_Graf\obj\Debug\Zad_1_Graf.csprojResolveAssemblyReference.cache
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_1_Graf\Zad_1_Graf\obj\Debug\Zad_1_Graf.Form1.resources
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_1_Graf\Zad_1_Graf\obj\Debug\Zad_1_Graf.Properties.Resources.resources
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_1_Graf\Zad_1_Graf\obj\Debug\Zad_1_Graf.csproj.GenerateResource.Cache
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_1_Graf\Zad_1_Graf\obj\Debug\Zad_1_Graf.exe
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_1_Graf\Zad_1_Graf\obj\Debug\Zad_1_Graf.pdb
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_2\Zad_1_Graf\bin\Debug\Zad_1_Graf.exe.config
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_2\Zad_1_Graf\obj\Debug\Zad_1_Graf.exe
+E:\studia\4_semestr\Inteligentna analiza danych\Zad_2\Zad_1_Graf\obj\Debug\Zad_1_Graf.pdb
